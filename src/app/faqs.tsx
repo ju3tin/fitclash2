@@ -38,10 +38,7 @@ export function Faqs() {
           <Typography variant="h1" color="blue-gray" className="mb-4">
             Frequently asked questions
           </Typography>
-          <Typography
-            variant="lead"
-            className="mx-auto mb-24 !text-gray-500 lg:w-3/5"
-          >
+          <Typography variant="lead" className="mx-auto mb-24 !text-gray-500 lg:w-3/5">
             A lot of people don&apos;t appreciate the moment until it&apos;s
             passed. I&apos;m not trying my hardest, and I&apos;m not trying to
             do
